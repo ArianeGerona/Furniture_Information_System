@@ -1,0 +1,180 @@
+C:\Users\A6\Documents\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\tisbe\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+D:\GERONA, ARIANE A. 2A-BSIT (2nd sem)\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TRANSACTION.resources
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Lenovo\Desktop\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+D:\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+D:\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+D:\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\RM_42_PC5\Documents\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\RM_42_PC5\Documents\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\RM_42_PC5\Documents\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+F:\ARIANE GERONA FINAL PROJECT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+F:\ARIANE GERONA FINAL PROJECT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+F:\ARIANE GERONA FINAL PROJECT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+C:\Users\Hp EliteBook\Desktop\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+E:\ARIANE GERONA 2A-BSIT\ARIANE GERONA 2A FINALPROJECT\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\tisbe\OneDrive\Documents\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Hp EliteBook\Documents\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Lenovo\Downloads\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.BED.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CABINET.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CHAIR.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CONTACT.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.ORDER_DETAIL.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.PURCHASE_FORM.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.SOFA.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.TABLE.resources
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\Ariane Gerona (2ndsem Sir Saligue)\FinalProject-Ariane-Gerona BSIT 2A\FinalProject-Ariane-Gerona\FinalProject Ariane Gerona\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
